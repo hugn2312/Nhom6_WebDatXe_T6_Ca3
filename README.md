@@ -1,6 +1,6 @@
 <h1 align="center">Nhóm 6, Project Web Thuê Xe (Royal Car)</h1>
 <h2 align="left">Giới Thiệu: </h2>
-<h3 align="left">Project thuê xe hơi là một ứng dụng web cho phép người dùng thuê xe hơi từ các công ty cho thuê xe khác nhau. Ứng dụng cho phép người dùng tìm kiếm xe hơi theo vị trí, loại xe, giá cả và thời gian thuê. Người dùng cũng có thể đặt xe và thanh toán trực tuyến. </h3>
+<p align="left">Project thuê xe hơi là một ứng dụng web cho phép người dùng thuê xe hơi từ các công ty cho thuê xe khác nhau. Ứng dụng cho phép người dùng tìm kiếm xe hơi theo vị trí, loại xe, giá cả và thời gian thuê. Người dùng cũng có thể đặt xe và thanh toán trực tuyến. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
