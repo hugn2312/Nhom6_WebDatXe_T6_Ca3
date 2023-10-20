@@ -1,4 +1,4 @@
-<h3 align="left">Nhóm 6, Project Web Thuê Xe (Royal Car):</h3>
+<h1 align="left">Nhóm 6, Project Web Thuê Xe (Royal Car):</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
