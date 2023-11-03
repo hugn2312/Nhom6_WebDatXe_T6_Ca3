@@ -2,21 +2,47 @@
 <h2 align="left"> Giới Thiệu: </h2>
 <p dir="auto">Project thuê xe hơi là một ứng dụng web cho phép người dùng thuê xe hơi từ các công ty cho thuê xe khác nhau. Ứng dụng cho phép người dùng tìm kiếm xe hơi theo vị trí, loại xe, giá cả và thời gian thuê. Người dùng cũng có thể đặt xe và thanh toán trực tuyến.</p>
 <img align="center" src="https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"</img>
+
+<h1 style="font-size: 20px;">Danh Sách Thành Viên Nhóm</h1>
+<div align="center">
+
+| STT  | Họ và tên        | Role              | Ảnh 
+|-----:|------------------|------             |-----
+|     1| Nguyễn Thành Hưng             |Scrum Master, Dev  | <img src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t39.30808-6/373524388_2025628071120948_4377969046119014053_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=z-dzDX6T1VUAX_HcgFk&_nc_ht=scontent.fsgn4-1.fna&oh=00_AfAVR_hV6e8M3AjVF7RW3EbMC67DWVKO6e_70c9VLsZopw&oe=6549E36D" width="100" height="100"/>
+|     2| Vũ Minh Lộc      |Product Owner, Dev |<img src="https://i.pinimg.com/564x/21/a7/aa/21a7aa9889b85ace6161dfd309005b07.jpg" width="100" height="100"/>
+|     3| Nguyễn Trí Nguyên|Dev                |<img src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t39.30808-6/279690754_1214913782586088_753170281659058745_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=84HhFVRWK2QAX_AOB3V&_nc_ht=scontent.fsgn4-1.fna&oh=00_AfDh56whMtyeCEdC4_6zVJ5Ta3mg0-IONIn7tQXsD8pkMw&oe=654A37D4" width="100" height="100"/>
+|     4| Huỳnh Phi Long   |Dev                |<img src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t39.30808-6/319871650_3330102180639461_1407489087384989755_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qw5hWutKL5IAX-7BN5a&_nc_ht=scontent.fsgn13-4.fna&oh=00_AfDDutBkh-_vZnC2P4DzzhXjLnLV4bF5yb_pg_eFwQpMrw&oe=654A1AB4" width="100" height="100"/>
+
+
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h2 align="left">Các Tính Năng Chính: </h2>
-<p dir="auto">Tìm kiếm xe hơi dễ dàng: Ứng dụng cung cấp một loạt các bộ lọc để giúp người dùng tìm kiếm xe hơi phù hợp với nhu cầu của mình. Người dùng có thể tìm kiếm theo vị trí, loại xe, giá cả, thời gian thuê và các tính năng khác.</p>
-<p dir="auto">Đặt xe và thanh toán trực tuyến: Người dùng có thể đặt xe và thanh toán trực tuyến một cách nhanh chóng và dễ dàng.</p>
-<p dir="auto">Theo dõi trạng thái đặt xe: Người dùng có thể theo dõi trạng thái đặt xe của mình bất cứ lúc nào.</p>
-<p dir="auto">Nhận thông báo: Người dùng sẽ nhận được thông báo về các thay đổi đối với đặt xe của mình.</p>
+
+- :zap: Tìm kiếm xe hơi dễ dàng: Ứng dụng cung cấp một loạt các bộ lọc để giúp người dùng tìm kiếm xe hơi phù hợp với nhu cầu của mình. Người dùng có thể tìm kiếm theo vị trí, loại xe, giá cả, thời gian thuê và các tính năng khác.
+
+- :zap: Đặt xe và thanh toán trực tuyến: Người dùng có thể đặt xe và thanh toán trực tuyến một cách nhanh chóng và dễ dàng.
+  
+- :zap: Theo dõi trạng thái đặt xe: Người dùng có thể theo dõi trạng thái đặt xe của mình bất cứ lúc nào.
+  
+- :zap: Nhận thông báo: Người dùng sẽ nhận được thông báo về các thay đổi đối với đặt xe của mình.
+
+<div>
 <img align="center"  src="https://images.pexels.com/photos/70912/pexels-photo-70912.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"</img>
+</div>
 <h2 align="left">Mục tiêu của dự án:</h2>
 <p dir="auto">Mục tiêu của dự án này là cung cấp cho người dùng một trải nghiệm thuê xe thuận tiện và đáng tin cậy. Chúng tôi muốn giúp người dùng dễ dàng tìm kiếm và thuê xe hơi từ các công ty cho thuê xe khác nhau.</p>
 <h2 align="left">Đối tượng mục tiêu:</h2>
 <p dir="auto">Ứng dụng này dành cho mọi người cần thuê xe hơi. Chúng tôi đang nhắm mục tiêu đến những người dùng đang đi du lịch, đi công tác hoặc cần thuê xe cho các mục đích cá nhân.</p>
 <h2 align="left">Chức năng mới:</h2>
 <p dir="auto">Chúng tôi đang có kế hoạch thêm các tính năng mới sau vào ứng dụng:</h3>
-<p dir="auto" >- Tìm kiếm nâng cao: Người dùng sẽ có thể tìm kiếm xe hơi dựa trên các tiêu chí cụ thể hơn, chẳng hạn như số chỗ ngồi, loại hộp số và các tính năng bổ sung.</h3>
-<p dir="auto" >- Đánh giá và xếp hạng: Người dùng sẽ có thể đánh giá và xếp hạng các công ty cho thuê xe và xe hơi mà họ đã sử dụng.</h3>
-<p dir="auto" >- Hỗ trợ đa ngôn ngữ: Ứng dụng sẽ được hỗ trợ bởi nhiều ngôn ngữ hơn.</h3>
+
+- :seedling: Tìm kiếm nâng cao: Người dùng sẽ có thể tìm kiếm xe hơi dựa trên các tiêu chí cụ thể hơn, chẳng hạn như số chỗ ngồi, loại hộp số và các tính năng bổ sung.
+
+- :seedling: Đánh giá và xếp hạng: Người dùng sẽ có thể đánh giá và xếp hạng các công ty cho thuê xe và xe hơi mà họ đã sử dụng.
+  
+- :seedling: Hỗ trợ đa ngôn ngữ: Ứng dụng sẽ được hỗ trợ bởi nhiều ngôn ngữ hơn.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/hugnn141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hưng thành" height="30" width="40" /></a>
