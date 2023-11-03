@@ -42,6 +42,12 @@
 - :seedling: Đánh giá và xếp hạng: Người dùng sẽ có thể đánh giá và xếp hạng các công ty cho thuê xe và xe hơi mà họ đã sử dụng.
   
 - :seedling: Hỗ trợ đa ngôn ngữ: Ứng dụng sẽ được hỗ trợ bởi nhiều ngôn ngữ hơn.
+
+<div align="center">
+<img  width="200" height="200" src="https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"</img>
+<img  width="200" height="200" src="https://i.pinimg.com/originals/d0/4c/04/d04c047b4497373efc0f4d2b771b4ef5.gif"</img>
+  <img  width="200" height="200" src="https://i.pinimg.com/564x/d2/ff/1f/d2ff1fcabae5d628536d4321da566cab.jpg"</img>
+</div>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
