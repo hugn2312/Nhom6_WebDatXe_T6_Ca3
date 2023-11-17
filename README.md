@@ -8,7 +8,7 @@
 
 | STT  | Họ và tên        | Role              | Ảnh 
 |-----:|------------------|------             |-----
-|     1| Nguyễn Thành Hưng             |Scrum Master, Dev  | <img src="https://i.pinimg.com/564x/24/6f/0d/246f0d0b50633025098336bac66467a8.jpg" width="100" height="100"/>
+|     1| Nguyễn Thành Hưng             |Scrum Master, Dev  | <img src="https://i.pinimg.com/564x/41/77/ef/4177efaafd731b092aab83d0d41675d1.jpg" width="100" height="100"/>
 |     2| Vũ Minh Lộc      |Product Owner, Dev |<img src="https://i.pinimg.com/564x/bf/6e/ba/bf6ebac397e5ef62d48e45bd76dd46af.jpg" width="100" height="100"/>
 |     3| Nguyễn Trí Nguyên|Dev                |<img src="https://i.pinimg.com/564x/7e/db/c3/7edbc391380936335bddd456676554f5.jpg" width="100" height="100"/>
 |     4| Huỳnh Phi Long   |Dev                |<img src="https://i.pinimg.com/564x/28/aa/ce/28aaceb1788a4801beb151dbbd11764d.jpg" width="100" height="100"/>
