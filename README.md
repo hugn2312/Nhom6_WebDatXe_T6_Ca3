@@ -8,10 +8,10 @@
 
 | STT  | Họ và tên        | Role              | Ảnh 
 |-----:|------------------|------             |-----
-|     1| Nguyễn Thành Hưng             |Scrum Master, Dev  | <img src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t39.30808-6/373524388_2025628071120948_4377969046119014053_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=z-dzDX6T1VUAX_HcgFk&_nc_ht=scontent.fsgn4-1.fna&oh=00_AfAVR_hV6e8M3AjVF7RW3EbMC67DWVKO6e_70c9VLsZopw&oe=6549E36D" width="100" height="100"/>
-|     2| Vũ Minh Lộc      |Product Owner, Dev |<img src="https://i.pinimg.com/564x/21/a7/aa/21a7aa9889b85ace6161dfd309005b07.jpg" width="100" height="100"/>
-|     3| Nguyễn Trí Nguyên|Dev                |<img src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t39.30808-6/279690754_1214913782586088_753170281659058745_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=84HhFVRWK2QAX_AOB3V&_nc_ht=scontent.fsgn4-1.fna&oh=00_AfDh56whMtyeCEdC4_6zVJ5Ta3mg0-IONIn7tQXsD8pkMw&oe=654A37D4" width="100" height="100"/>
-|     4| Huỳnh Phi Long   |Dev                |<img src="https://scontent.fsgn13-4.fna.fbcdn.net/v/t39.30808-6/319871650_3330102180639461_1407489087384989755_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qw5hWutKL5IAX-7BN5a&_nc_ht=scontent.fsgn13-4.fna&oh=00_AfDDutBkh-_vZnC2P4DzzhXjLnLV4bF5yb_pg_eFwQpMrw&oe=654A1AB4" width="100" height="100"/>
+|     1| Nguyễn Thành Hưng             |Scrum Master, Dev  | <img src="https://i.pinimg.com/564x/24/6f/0d/246f0d0b50633025098336bac66467a8.jpg" width="100" height="100"/>
+|     2| Vũ Minh Lộc      |Product Owner, Dev |<img src="https://i.pinimg.com/564x/bf/6e/ba/bf6ebac397e5ef62d48e45bd76dd46af.jpg" width="100" height="100"/>
+|     3| Nguyễn Trí Nguyên|Dev                |<img src="https://i.pinimg.com/564x/7e/db/c3/7edbc391380936335bddd456676554f5.jpg" width="100" height="100"/>
+|     4| Huỳnh Phi Long   |Dev                |<img src="https://i.pinimg.com/564x/28/aa/ce/28aaceb1788a4801beb151dbbd11764d.jpg" width="100" height="100"/>
 
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
